@@ -1,0 +1,15 @@
+/home/rishith/mrt_ws/install/rishith_assn_2/share/ament_index/resource_index/package_run_dependencies/rishith_assn_2
+/home/rishith/mrt_ws/install/rishith_assn_2/share/ament_index/resource_index/parent_prefix_path/rishith_assn_2
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/environment/ament_prefix_path.sh
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/environment/ament_prefix_path.dsv
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/environment/path.sh
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/environment/path.dsv
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/local_setup.bash
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/local_setup.sh
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/local_setup.zsh
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/local_setup.dsv
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/package.dsv
+/home/rishith/mrt_ws/install/rishith_assn_2/share/ament_index/resource_index/packages/rishith_assn_2
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/cmake/rishith_assn_2Config.cmake
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/cmake/rishith_assn_2Config-version.cmake
+/home/rishith/mrt_ws/install/rishith_assn_2/share/rishith_assn_2/package.xml

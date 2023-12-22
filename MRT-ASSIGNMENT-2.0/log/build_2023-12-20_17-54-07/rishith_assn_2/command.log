@@ -1,0 +1,6 @@
+Invoking command in '/home/rishith/mrt_ws/build/rishith_assn_2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rishith/mrt_ws/src/rishith_assn_2 -DCMAKE_INSTALL_PREFIX=/home/rishith/mrt_ws/install/rishith_assn_2
+Invoked command in '/home/rishith/mrt_ws/build/rishith_assn_2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rishith/mrt_ws/src/rishith_assn_2 -DCMAKE_INSTALL_PREFIX=/home/rishith/mrt_ws/install/rishith_assn_2
+Invoking command in '/home/rishith/mrt_ws/build/rishith_assn_2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rishith/mrt_ws/build/rishith_assn_2 -- -j12 -l12
+Invoked command in '/home/rishith/mrt_ws/build/rishith_assn_2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rishith/mrt_ws/build/rishith_assn_2 -- -j12 -l12
+Invoking command in '/home/rishith/mrt_ws/build/rishith_assn_2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rishith/mrt_ws/build/rishith_assn_2
+Invoked command in '/home/rishith/mrt_ws/build/rishith_assn_2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rishith/mrt_ws/build/rishith_assn_2

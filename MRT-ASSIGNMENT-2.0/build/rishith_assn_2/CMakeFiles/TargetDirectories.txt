@@ -1,0 +1,9 @@
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/uninstall.dir
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/rishith_assn_2_uninstall.dir
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/test.dir
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/edit_cache.dir
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/rebuild_cache.dir
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/list_install_components.dir
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/install.dir
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/install/local.dir
+/home/rishith/mrt_ws/build/rishith_assn_2/CMakeFiles/install/strip.dir
